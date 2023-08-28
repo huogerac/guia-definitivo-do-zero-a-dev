@@ -78,11 +78,11 @@ Esta é uma sequência pensada para que um iniciante não desista dos estudos, e
   - [O Conhecimento entra pelos dedos](#wip)
   - [O poder das comunidades](#wip)
 
-- [HTML](#html)
+- 🚧 [HTML](#html)
 
   - [Introdução ao HTML](#introdução-ao-html)
   - [Ferramentas necessárias](#ferramentas-necessárias)
-  - [Olá mundo com HTML](#olá-mundo-com-html)
+  - [🏆 Olá mundo com HTML](#olá-mundo-com-html)
   - [Visão geral das TAGs do HTML](#visão-geral-das-tags-do-html)
   - [As principais TAGS do HTML](#as-principais-tags-do-html)
   - [🏆 Entendendo marcações HTML na prática](#🏆-entendendo-marcações-html-na-pratica)
@@ -90,7 +90,7 @@ Esta é uma sequência pensada para que um iniciante não desista dos estudos, e
   - [Estrutura, DOM e a anatomia de uma página HTML](#estrutura-dom-e-a-anatomia-de-uma-página-html)
   - [Formulários e campos para obter dados](#formulários-e-campos-para-obter-dados)
 
-- [CSS Básico](#css-basico)
+- [Fundamentos do CSS](#fundamentos-do-css)
 
   - [Motivações para entender CSS](#wip)
   - [O que é Cascading Style Sheets (CSS)](#wip)
@@ -308,7 +308,7 @@ Esta é uma sequência pensada para que um iniciante não desista dos estudos, e
   - [Biblioteca de componentes](#wip)
   - [Tratamento de erros: try/catch/finally](#wip)
   - [HTTP Headers & Cookies](#wip)
-  - [Async/await]
+  - [Async/await](#wip)
   - [Rest API](#wip)
   - [NVM](#wip)
 
