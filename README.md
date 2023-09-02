@@ -1,4 +1,4 @@
-# Guia Definitivo Do Zero à Primeira Vaga
+# Guia Definitivo Do Zero à Dev
 
 - 📚 Guia do dev autodidata
 - 🌎 Guia para o contexto WEB
@@ -21,12 +21,7 @@
 - Hard vs Soft Skills
 - Aprender fazendo algo real (projetos práticos)
 - A maioria dos tutoriais na internet são feitos para pessoas da área, mesmo um tutorial básico de HTML/CSS já espera que o estudante conheça um monte de coisa
-
-## **Links relacionados**
-
-- 🚧 [Download do e-book](https://l.dev.pro.br/lp-ebook-rpv?utm_source=github&utm_campaign=link-readme)
-- 🚧 [Playlist vídeos trilha fundamental](https://www.youtube.com/watch?v=o10Rpqefe_o&list=PLA05yVJtRWYTfRv8jaLS4XJ3oQtvLFakj)
-- ▶️ [Parte 1 - Trilha Fundamental](https://www.youtube.com/watch?v=Iovy_HCZLNs&t=1110s)
+- [Slides frontinvale](https://speakerdeck.com/huogerac/mapa-de-estudo-dev-frontend-2023)
 
 ## **Sequência recomendada**
 
@@ -401,3 +396,9 @@ Esta é uma sequência pensada para que um iniciante não desista dos estudos, e
 
 - [Every-some-find-includes](https://desenvolvimentoparaweb.com/javascript/every-some-find-includes-javascript/)
 - [LearnVue](https://learnvue.co/tutorials)
+
+## **Links relacionados**
+
+- 🚧 [Download do e-book](https://l.dev.pro.br/lp-ebook-rpv?utm_source=github&utm_campaign=link-readme)
+- 🚧 [Playlist vídeos trilha fundamental](https://www.youtube.com/watch?v=o10Rpqefe_o&list=PLA05yVJtRWYTfRv8jaLS4XJ3oQtvLFakj)
+- ▶️ [Parte 1 - Trilha Fundamental](https://www.youtube.com/watch?v=Iovy_HCZLNs&t=1110s)
